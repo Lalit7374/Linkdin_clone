@@ -31,7 +31,7 @@ This repository hosts the source code for a LinkedIn clone built with Next.js, T
 Clone the project
 
 ```bash
-    https://github.com/Mshandev/Linkedin-Clone.git
+    https://github.com/Lalit7374/Linkdin_clone.git
 ```
 Go to the project directory
 
